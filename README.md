@@ -1,12 +1,12 @@
 ### Hi guys  👋
---> I'm kishan pandey .Currently, I'm pursuing B'Tech from Technocrats Institute of Technology (Bhopal) . 
+--> I'm kishan pandey .Currently, I've done my engineering from Technocrats Institute of Technology (Bhopal) . 
  
  -> I love coding .
  
  --> I am just working to explore my Hard and Soft skills .
  
  
- Here are some ways by which you can connect with me ->
+ Here are some url by which you can connect with me ->
  1.  https://leetcode.com/Kishan_Kumar_Pandey_2002/ 
  2.  https://auth.geeksforgeeks.org/user/kishanpandey644/practice
  3.  https://twitter.com/_kishan__pandey
